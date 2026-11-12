@@ -90,6 +90,7 @@ Recall is particularly important because failing to identify a malignant tumour 
 
 ## Repository Files
 
+```text
 breast-cancer-classification-ml-project/
 │
 ├── Breast_Cancer_Classification_ML_Project.ipynb
@@ -103,6 +104,7 @@ breast-cancer-classification-ml-project/
     ├── correlation_heatmap.png
     ├── neural_network_curves.png
     └── roc_curves.png
+```
 
 ## File Descriptions
 
@@ -135,6 +137,7 @@ The notebook produces:
 
 ## Project Repository
 
+```text
 https://github.com/daehcae-hub/breast-cancer-classification-ml-project
-
+```
 
